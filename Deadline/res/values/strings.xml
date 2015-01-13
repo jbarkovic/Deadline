@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Deadline</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">New</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_main_tab">Deadline</string>
+    <string name="title_activity_deadline_edit">DeadlineEditActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
